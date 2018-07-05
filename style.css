@@ -135,3 +135,14 @@ h3, h2 {
     padding-bottom: 70px;
   }
 }
+
+@media (max-height: 720px) {
+	.logo {
+	  width: 250px;
+
+	}
+	#headerMain {
+		font-size: 2em;
+	}
+
+}

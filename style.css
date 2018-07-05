@@ -128,7 +128,10 @@ h3, h2 {
 @media (max-width: 375px) {
   #logomargin {
     margin-top: 25px;
-  }
+	  }
+		/* #headerMain {
+	    font-size: 1.2em;
+	  } */
 
   .logo-pad {
 
@@ -142,7 +145,7 @@ h3, h2 {
 
 	}
 	#headerMain {
-		font-size: 2em;
+		font-size: 1.6em;
 	}
 
 }

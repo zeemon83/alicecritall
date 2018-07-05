@@ -115,7 +115,7 @@ h3, h2 {
 	font-size: 1.0em;
 }
 
-@media (max-width: 450px) {
+@media (max-width: 600px) {
   #headerMain {
     font-size: 1.6em;
   }
